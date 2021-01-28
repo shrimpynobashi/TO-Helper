@@ -32,6 +32,7 @@ def mainmenu():
     global p2name
     side = ''
     choice = ''
+    print('Players currently queued up: \n'+p1name+' vs. '+p2name)
     print('''
 Main Menu:
     
