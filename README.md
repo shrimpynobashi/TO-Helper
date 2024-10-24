@@ -11,7 +11,7 @@ Summary:
   
   GUI version: generates 4 text files in the same folder it's ran that can be "pointed at" with your streaming suite's Text option (checking "read from file"). "Submit" will reset the scores and change the names to what you have in the fields, "Clear" will reset scores and names to "Player 1" and "Player 2", "Fix Names" will set the names to what you have in the fields WITHOUT changing wins, and "Swap" will swap the names and wins for the players (for all you Soulcalibur players. You're welcome).
   
-  Feel free to make any suggestions through github or on Twitter! @Shrimpynobashi
+  Feel free to make any suggestions through github or on Twitter! @Shrimpy_shift11, or Bluesky @Shrimpyshift11.
 
 Licensing:
   Feel free to use it however you want, but please don't advertise it as your own. That'd be sad.
